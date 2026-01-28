@@ -27,7 +27,11 @@ The dataset used in this project is a CSV file containing information from TMDB 
 ## Skills & Tools Demonstrated
 
 Python programming (pandas, matplotlib, seaborn)
+
 Exploratory data analysis (EDA)
+
 Data cleaning and preprocessing
+
 Data visualization
+
 Statistical analysis
